@@ -8,7 +8,6 @@ HTML, CSS, JS
 ## 협업 진행 방식
 git flow 방식 사용
 ![git flow](./images/gitflow_image.png)
-이미지 추가
 dev, feature 브랜치 사용
 ### commit 규칙
 동사형 영어( Feat, Add) 사용
