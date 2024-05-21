@@ -10,7 +10,7 @@ https://github.com/jsh9611/rotatingImage/assets/57349859/e23e7f9a-244b-421b-8c5d
 ### 담당 역할
 - 장성훈 : 프로젝트 초기 설정, 화면에 이미지를 불러오는 기능 구현
 - 김은지 : 동적인 이벤트 추가 (rotate 속성)
-- 박희범 : 
+- 박희범 : 스타일 추가
 
 ## 협업 진행 방식
 git flow 방식 사용(main, dev, feature)
